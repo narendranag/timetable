@@ -4,10 +4,10 @@ import pytz
 def main():
     # Define the time zones and their labels
     time_zones = {
-        "US West Coast": "US/Pacific",
-        "US Central": "US/Central",
-        "US East Coast": "US/Eastern",
-        "Poland": "Europe/Warsaw",
+        "California": "US/Pacific",
+        "Texas": "US/Central",
+        "New York": "US/Eastern",
+        "Europe": "Europe/Warsaw",
         "India": "Asia/Kolkata",
     }
 
